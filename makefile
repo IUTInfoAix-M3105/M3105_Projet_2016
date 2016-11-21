@@ -55,11 +55,11 @@ travis: $(latexmkPDF) $(pandocPDF)
 ## clean everthing but PDF output
 clean:
 	latexmk -c -f $(latexmkTeX) $(pandocTeX)
-	rm -f $(latexmkTeX) $(pandocMD) $(pandocTeX) 
+	rm -f $(latexmkTeX) $(pandocTeX) 
 ## clean everything
 Clean:
 	latexmk -C -f $(latexmkTeX) $(pandocTeX)
-	rm -f $(latexmkTeX) $(pandocMD) $(pandocTeX)
+	rm -f $(latexmkTeX) $(pandocTeX)
 
 # Making dependancies ########################################################
 
