@@ -13,14 +13,20 @@
 
 *Le non-respect d’une des consignes ci-dessous impliquera une pénalité de 3 points minimum sur la note du projet. Les modalités pour la soutenance seront précisées ultérieurement.*
 
+### Généralités
+-   Vous travaillerez par équipe de 5 personnes et de manière collaborative en utilisant Git et en partageant le travail entre les membres de l'équipe sur GitHub.
+-   Chaque membre de l'équipe fera des comits du code qu'il a écrit. L'équipe enseignante va en tenir compte lors de l'évaluation.
+-  Le dépôt du projet de votre équipe devra être __privé__ (accessible uniquement par les membres de l'équipe). Une fois créé, vous rendrez ce dépôt accessible en lecture uniquement à l'équipe enseignante *i.e.* l'équipe 
+[https://github.com/orgs/IUTInfoAix/teams/prof](Prof).
+-  Les modalités de déroulement des soutenances seront précisées ultérieurement.
+
 ### Remarques
 
 La note du projet prendra en compte :
 
 -   Le respect des consignes du sujet et des [contraintes du livrable](ContraintesLivrable.md).
 -   La modélisation objet de votre application. Également, nous serons
-    particulièrement attentifs à l’utilisation appropriée des patrons de
-    conception que vous aurez mis en œuvre
+    particulièrement attentifs à l’utilisation appropriée des patrons de conception que vous aurez mis en œuvre
 -   La propreté et la lisibilité du code ainsi que tout ce qui
     facilitera sa compréhension par les correcteurs (noms des variables,
     commentaires, modularité, etc ).
