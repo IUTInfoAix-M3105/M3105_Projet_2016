@@ -17,7 +17,7 @@
 -   Vous travaillerez par équipe de 5 personnes et de manière collaborative en utilisant Git et en partageant le travail entre les membres de l'équipe sur GitHub.
 -   Chaque membre de l'équipe fera des comits du code qu'il a écrit. L'équipe enseignante va en tenir compte lors de l'évaluation.
 -  Le dépôt du projet de votre équipe devra être __privé__ (accessible uniquement par les membres de l'équipe). Une fois créé, vous rendrez ce dépôt accessible en lecture uniquement à l'équipe enseignante *i.e.* l'équipe 
-(__Prof__)(https://github.com/orgs/IUTInfoAix/teams/prof).
+[__Prof__](https://github.com/orgs/IUTInfoAix/teams/prof).
 -  Les modalités de déroulement des soutenances seront précisées ultérieurement.
 
 ### Remarques
