@@ -1,7 +1,7 @@
-# Sujet de Projet - Simulateur d'un marché fermier
+# Projet - Simulateur d'un marché fermier
 
 
-### Conception et Programmation Objets Avancées
+### Conception et Programmation Objets Avancées (module M3105)
 ### IUT d’Aix-Marseille – Dép. Informatique Aix-en-Provence, Semestre 3 – Année 2016-2017
 
 * Sophie Nabitz - [sophie.nabitz@univ-avignon.fr](sophie.nabitz@univ-avignon.fr)
@@ -126,7 +126,7 @@ Le contrôleur est en quelques sortes l'incarnation informatique de l'AMF. Il es
 
 2.  Écrire une méthode `choisirAcheteur()` qui permet pour un bien proposé de choisir parmi les acheteurs qui y sont intéressés. Comme indiqué précédemment, dans un premier temps écrire un algorithme d'affection naïf (l'acheteur sera choisi de manière aléatoire).
 
-3. La méthode `choisirAcheteur()` écrite en première intention n'est pas optimale. Par exemple, pour un type de produit fermier qui est très demandée le temps pourrait être un critère de choix (premier arrivé, premier servi). Dans le cas d'un système équitable on pourrait imaginer la limitation des monopoles : les acheteurs qui achètent des petites quantités sont prioritaires par rapport aux gros acheteurs. Parfois il serait peut-être utile de pouvoir imposer un acheteur qui a été jusque là très pénalisé, son offre d'achat n'étant pas pu être sélectionnée. De multiples façons/critères d'optimiser le fonctionnement du système peuvent être envisagés. Proposez un (ou plusieurs) algorithmes alternatifs, qui permettront soit de mieux répartir les biens en vente, soit de minimiser le nombre d'acheteurs pour chaque fermier ... ou une version hybride de ces deux critères. Le choix d'un de ces algorithmes sera fait par l'utilisateur. 
+3. La méthode `choisirAcheteur()` écrite en première intention n'est pas optimale. Par exemple, pour un type de produit fermier qui est très demandé le temps pourrait être un critère de choix (premier arrivé, premier servi). Dans le cas d'un système équitable on pourrait imaginer la limitation des monopoles : les acheteurs qui achètent des petites quantités sont prioritaires par rapport aux gros acheteurs. Parfois il serait peut-être utile de pouvoir imposer un acheteur qui a été jusque là très pénalisé, son offre d'achat n'étant pas pu être sélectionnée. De multiples façons/critères d'optimiser le fonctionnement du système peuvent être envisagés. Proposez un (ou plusieurs) algorithmes alternatifs, qui permettront soit de mieux répartir les biens en vente, soit de minimiser le nombre d'acheteurs pour chaque fermier ... ou une version hybride de ces deux critères. Le choix d'un de ces algorithmes sera fait par l'utilisateur. 
 
 ### Visualisation du système – mode simplifié
 
