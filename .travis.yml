@@ -1,26 +1,11 @@
-matrix:
-    include:
-        - os: linux
-          sudo: false
-          language: r
-          pandoc_version: 1.18
-          install:
-              - pip install --user pandocfilters
-              - tlmgr install latexmk physics cancel fourier utopia
-          cache:
-          - packages
-          - pip
-        - os: linux
-          sudo: required
-          dist: trusty
-          language: r
-          pandoc_version: 1.18
-          install:
-              - pip install -U pip pandocfilters
-              - tlmgr install latexmk physics cancel fourier utopia
-          cache:
-          - packages
-          - pip
+language: r
+pandoc_version: 1.18
+install:
+    - pip install --user pandocfilters
+    - tlmgr install latexmk physics cancel fourier utopia
+cache:
+    - packages
+    - pip
 script:
     - make -j4 travis
 deploy:
