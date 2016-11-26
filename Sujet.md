@@ -4,10 +4,10 @@
 ### Conception et Programmation Objets Avancées (module M3105)
 ### IUT d’Aix-Marseille – Dép. Informatique Aix-en-Provence, Semestre 3 – Année 2016-2017
 
-* Sophie Nabitz - [sophie.nabitz@univ-avignon.fr](sophie.nabitz@univ-avignon.fr)
-* Sébastien Nedjar - [sebastien.nedjar@univ-amu.fr](sebastien.nedjar@univ-amu.fr)
-* Cyril Pain-Barre - [cyril.pain-barre@univ-amu.fr](cyril.pain-barre@univ-amu.fr)
-* Petru Valicov - [petru.valicov@univ-amu.fr](petru.valicov@univ-amu.fr)
+* Sophie Nabitz - [sophie.nabitz@univ-avignon.fr](sophie.nabitz@univ-avignon.fr) - https://github.com/bastinz
+* Sébastien Nedjar - [sebastien.nedjar@univ-amu.fr](sebastien.nedjar@univ-amu.fr) - https://github.com/nedseb
+* Cyril Pain-Barre - [cyril.pain-barre@univ-amu.fr](cyril.pain-barre@univ-amu.fr) - https://github.com/bashelier
+* Petru Valicov - [petru.valicov@univ-amu.fr](petru.valicov@univ-amu.fr) - https://github.com/pvalicov
 
 **Date de rendu : 14 Décembre à 23h59**
 
@@ -16,7 +16,7 @@
 ### Généralités
 -   Vous travaillerez par équipe de 5 personnes et de manière collaborative en utilisant Git et en partageant le travail entre les membres de l'équipe sur GitHub.
 -   Chaque membre de l'équipe fera des comits du code qu'il a écrit. L'équipe enseignante va en tenir compte lors de l'évaluation.
--  Le dépôt du projet de votre équipe devra être __privé__ (accessible uniquement par les membres de l'équipe). Une fois créé, vous rendrez ce dépôt accessible en lecture uniquement à l'équipe enseignante *i.e.* l'équipe [__Prof__](https://github.com/orgs/IUTInfoAix/teams/prof).
+-  Le dépôt du projet de votre équipe devra être __privé__ (accessible uniquement par les membres de l'équipe). Une fois créé, vous rendrez ce dépôt accessible en lecture uniquement à l'équipe enseignante (les liens vers les comptes GitHub données en haut de la page).
 -  Les modalités de déroulement des soutenances seront précisées ultérieurement.
 
 ### Remarques
