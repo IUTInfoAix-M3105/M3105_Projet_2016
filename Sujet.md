@@ -53,7 +53,7 @@ Les modalités de réalisation de certaines fonctionnalités ne sont pas forcém
 
 ## Descriptif
 
-Les agriculteurs (`Participant`) ont décidé de se doter d'une bourse d'échanges de biens fermiers. Dans les temps qui courent (état d'urgence, crise économique, baisse de revenus, réchauffement climatique, fin du monde prochaine, ...) cela devrait leur permettre de se passer de se maintenir à flot en favorisant des circuits courts. Le système se veut simple : les fermiers proposent leurs produits fermiers (vaches, cochons, lait, tomates, blé, reblochon, etc.) avec un certain prix et une certaine quantité. Les autres membres du système achètent ce qu'il souhaite en fonction de leurs besoins. Votre mission, si vous l'acceptez (et d'ailleurs même si vous ne l'acceptez pas), est de réaliser ce système en appliquant ce que vous avez appris dans le module M3105.
+Les agriculteurs (`Participant`) ont décidé de se doter d'une bourse d'échanges de biens fermiers. Dans les temps qui courent (état d'urgence, crise économique, baisse de revenus, réchauffement climatique, fin du monde prochaine, ...) cela devrait leur permettre de se maintenir à flot en favorisant des circuits courts. Le système se veut simple : les fermiers proposent leurs produits fermiers (vaches, cochons, lait, tomates, blé, reblochon, etc.) avec un certain prix et une certaine quantité. Les autres membres du système achètent ce qu'il souhaite en fonction de leurs besoins. Votre mission, si vous l'acceptez (et d'ailleurs même si vous ne l'acceptez pas), est de réaliser ce système en appliquant ce que vous avez appris dans le module M3105.
 
 Pour vous aider à mieux cerner l'univers de votre application, la description des différents acteurs impliqués vous est donnée dans le fichier [Acteurs.md](Acteurs.md).
 
@@ -61,7 +61,7 @@ Pour vous éviter tous les aléas d'un système temps réel, votre programme dev
 
 Dans un premier temps vous allez supposer que la première offre d'achat arrivée sera la première servie. L'offre d'achat est acceptée si le solde de l'acheteur est suffisant. À la fin de la transaction, la somme est créditée sur le compte du vendeur et la propriété des biens est transférée à l'acheteur (vous n'aurez pas à gérer la livraison, on va supposer qu'elle est externe à l'application). On supposera qu'une fois acheté le lot d'articles est immédiatement disponible à l'acquéreur et donc ce dernier peut par exemple décider de le revendre.
 
-Chaque participant suit l'apparition à la vente des différents types de biens qui l'intéressent (à travers des abonnements à des flux tel que des listes de diffusion, un flux RSS, Une file de message, ...). Ainsi, il sera notifié lors de l'apparition des nouvelles offres. Naturellement, tout participant au marché peut acheter tout produit sans forcément être abonné à la liste de diffusion, la seule condition étant d'avoir la trésorerie requise.
+Chaque participant suit l'apparition à la vente des différents types de biens qui l'intéressent (à travers des abonnements à des flux tel que des listes de diffusion, un flux RSS, une file de message, ...). Ainsi, il sera notifié lors de l'apparition des nouvelles offres. Naturellement, tout participant au marché peut acheter tout produit sans forcément être abonné à la liste de diffusion, la seule condition étant d'avoir la trésorerie requise.
 
 ### Fonctionnement général de l'application
 
