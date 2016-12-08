@@ -10,6 +10,7 @@
 * Petru Valicov - [petru.valicov@univ-amu.fr](petru.valicov@univ-amu.fr)
 
 **Date de rendu : 4 janvier 2017 à 23h59**
+
 **Date de soutenance : 6 janvier 2017**
 
 *Le non-respect d’une des consignes ci-dessous impliquera une pénalité de 3 points minimum sur la note du projet. Les modalités pour la soutenance seront précisées ultérieurement.*
