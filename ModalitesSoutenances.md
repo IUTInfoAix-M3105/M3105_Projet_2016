@@ -2,10 +2,6 @@
 
 **Format** : environ 20 minutes pour la Démo + Présentation. Il est souhaitable que tous les membres du groupe prennent la parole. Le travail effectué par chaque membre doit être bien précisé.
 
-
-Les modalités détaillées seront précisées __ultérieurement__.
-
-
 La démonstration se déroulera selon le scénario suivant :
 
 0. Nous allons vous donner votre code source que vous nous aurez envoyé le mercredi 4 janvier 2017.
