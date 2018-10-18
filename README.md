@@ -2,15 +2,14 @@
 
 
 
-### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence, Semestre 3 – Année 2016-2017
+### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence, Semestre 3
 
-* Sophie Nabitz - [sophie.nabitz@univ-avignon.fr](sophie.nabitz@univ-avignon.fr)
-* Sébastien Nedjar - [sebastien.nedjar@univ-amu.fr](sebastien.nedjar@univ-amu.fr)
-* Cyril Pain-Barre - [cyril.pain-barre@univ-amu.fr](cyril.pain-barre@univ-amu.fr)
-* Petru Valicov - [petru.valicov@univ-amu.fr](petru.valicov@univ-amu.fr)
+* Sébastien Nedjar - [Sebastien.Nedjar@univ-amu.fr](Sebastien.Nedjar@univ-amu.fr)
+* Cyril Pain-Barre - [Cyril.Pain-Barre@univ-amu.fr](Cyril.Pain-Barre@univ-amu.fr)
+* Jean-Philippe Prost - [Jean-Philippe.Prost@univ-amu.fr](Jean-Philippe.Prost@univ-amu.fr)
 
-**Date de rendu : 4 janvier 2017 à 23h59**  
-**Date de soutenance : 6 janvier 2017**
+**Date de rendu : À PRÉCISER**  
+**Date de soutenance : À PRÉCISER**
 
 *Le non-respect d’une des consignes ci-dessous impliquera une pénalité de 3 points minimum sur la note du projet. Les modalités pour la soutenance seront précisées ultérieurement.*
 
