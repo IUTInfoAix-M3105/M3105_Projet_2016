@@ -7,7 +7,7 @@
 * Sophie Nabitz - [sophie.nabitz@univ-avignon.fr](sophie.nabitz@univ-avignon.fr) - https://github.com/bastinz
 * Sébastien Nedjar - [sebastien.nedjar@univ-amu.fr](sebastien.nedjar@univ-amu.fr) - https://github.com/nedseb
 * Cyril Pain-Barre - [cyril.pain-barre@univ-amu.fr](cyril.pain-barre@univ-amu.fr) - https://github.com/bashelier
-* Petru Valicov - [petru.valicov@univ-amu.fr](petru.valicov@univ-amu.fr) - https://github.com/pvalicov
+* Jean-Philippe Prost - [Jean-Philippe.Prost@univ-amu.fr](Jean-Philippe.Prost@univ-amu.fr) - https://github.com/jpprost
 
 **Date de rendu : 4 janvier 2017 à 23h59**  
 **Date de soutenance : 6 janvier 2017**
@@ -147,17 +147,3 @@ Vous implémenterez un ensemble de vues permettant de représenter et modifier l
 4.  La cotation actuelle de chaque produit qui va représenter une moyenne des prix proposés actuellement.
 
 Afin de ne pas retarder le travail, dans un premier temps, vos différentes vues seront représentées par des messages appropriés affichés dans le terminal.
-
-### Visualisation du système – IHM
-
-*(CETTE PARTIE EST À RÉALISER EN DERNIER)*
-
-Réalisez une interface graphique incluant les éléments suivants :
-
--   Les différentes vues du système présentées précédemment sous forme de fenêtres indépendantes.
-
--   La vue 1 sera une vue interactive, c’est sur cette vue que les boutons seront “cliquables”
-
--   Un menu d'application incluant : paramètres, documentation, à propos de, quitter l'application, etc.
-
--   La gestion des erreurs d'affichage.
